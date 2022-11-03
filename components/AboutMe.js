@@ -49,7 +49,7 @@ export default function AboutMe() {
                 Job Opportunities
               </h1>
               <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
-                I'm currently looking for an opportunity to join a company where my hybrid skills are leveraged - ideadlly 75% people management and 25% individual contributor work, {" "}
+                I'm currently looking for an opportunity to join a company where my hybrid skills are leveraged - ideally 75% people management and 25% individual contributor work, {" "}
                 <a
                   href={userData.resumeUrl}
                   target="__blank"
