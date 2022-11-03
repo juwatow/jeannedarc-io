@@ -59,7 +59,6 @@ export default function Navbar() {
               )}
             </a>
           </Link>
-          {/*
           <Link href="/projects">
             <a
               className={`text-base  ${
@@ -86,7 +85,6 @@ export default function Navbar() {
               )}
             </a>
           </Link>
-              */}
         </div>
 
         <div className="space-x-4 flex flex-row items-center">
@@ -178,16 +176,6 @@ export default function Navbar() {
         <Link href="/projects">
           <a className="text-base font-normal text-gray-600 dark:text-gray-300">
             Projects
-          </a>
-        </Link>
-        <Link href="/experience">
-          <a className="text-base font-normal text-gray-600 dark:text-gray-300">
-            Experience
-          </a>
-        </Link>
-        <Link href="/contact">
-          <a className="text-base font-normal text-gray-600 dark:text-gray-300">
-            Contact
           </a>
         </Link>
       </div>
