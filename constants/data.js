@@ -8,13 +8,13 @@ const userData = {
     address: "Toronto, Canada",
     projects: [
       {
-        title: "Neebyo",
-        link: "https://neebyo.org",
-        imgUrl: "/neebyo.png",
+        title: "Taco, Xello's Design System",
+        link: "https://taco.xello.world/",
+        imgUrl: "/taco-xello.png",
       },
       {
-        title: "Raise A Leader",
-        link: "https://raisealeader.org/",
+        title: "Neebyo",
+        link: "https://neebyo.org",
         imgUrl: "/neebyo.png",
       }
     ],
