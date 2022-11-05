@@ -33,26 +33,26 @@ export default function HighlightedProjects() {
 
         {/* Grid starts here */}
         <div className="grid md:grid-cols-3 gap-8 lg:-mt-8 pb-40">
-          {/* Single card 
+          {/* Single card */} 
           <a
-            href="https://jeannedarc.io"
+            href="https://trello.com/b/Gyy6SMxt/software-engineering-metrics"
             className="w-full block col-span-3 shadow-2xl"
           >
             <div className="relative overflow-hidden">
               <img
-                src="https://media.istockphoto.com/photos/calendar-app-on-tablet-computer-with-planning-of-the-week-with-and-picture-id1091264928"
-                alt="Taco, Xello's Design System"
+                src="/software-engineering-metrics-trello-board.png"
+                alt="Software Engineering Metrics - Trello Board"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
               <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
-              PDDP, PD Days Planner for parents/guardians
+              Software Engineering Metrics - Trello Board
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                 01
               </h1>
             </div>
           </a>
-           Single card */}
+           {/*Single card */}
           <a
             href="https://taco.xello.world/"
             className="w-full block col-span-3  sm:col-span-2 shadow-2xl"
