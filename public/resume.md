@@ -7,18 +7,7 @@ juwatow@gmail.com <br />
 
 A lifelong learner, passionate about software product development and how a team/organization building softwares can achieve "Great Results & Great Human Satisfaction". I strive to empower people around me to reach their highest potential by guiding product/platform teams to become values-driven, self-organizing and high-performant as well as partnering with the EPD triad and other stakeholders to create an environment where we continuously improve in order to achieve the desired business outcomes.
 
-Tools/Tech Stack Familiarity: Typescript, Prettier, ESLint, TailwindCSS, Angular, Next.js, Jest, Cypress, Python, C#, .Net Core, Solr, Redis, GitHub, SQL Server, Jenkins, Octopus, Docker, Azure, Netlify, Snyk, linearb.io, VS Code, Jira, Confluence, Trello, Slack, Miro, 15Five
-
 # CAREER
-
-## 2009 - Now: Software Engineer | Self-Employed
-
-Web/Mobile development & Entrepreneurship. Some Highlights:
-
-- Development of a web application for parents to manage PD Days (Tech stack: Next.js, Express.js, Firebase, PostgreSQL, Redis, AWS)
-- Development of my online portfolio site [jeannedarc.io](https://jeannedarc.io/) (!This is my playground so the tech stack changes frequently. Currently: Next.js, TailwindCSS, GitHub, Netlify)
-- Development of websites for clients mainly with Wordpress and [Eleventy](https://www.11ty.dev/), and setup Google Workspace
-- Development of a mobile app using Xamarin and available on Apple Store
 
 ## May 2021 - Oct 2022: Engineering Manager, Xello
 
@@ -83,11 +72,15 @@ Part of the first dev team of 4 engineers. The team scaled up to 2 big team of 8
 
 - Wear multiple hats: Developer, Tech lead, Manager, Scrum Master
 - Participated in multiple migration projects: ASP.NET to ASP.NET Core REST API | Angular | Sql Server
-- Led/participated in multiple projects to improve the architecture: added Solr to support the search functionality, added Redis as our caching system, added Dapper as our ORM, extended the authentication service with Identity Providers, SAML SSO Authentication, 0Auth and OpenId
+- Led/participated in multiple projects to improve the architecture: added Solr to support the Full Text Search and Redis as our caching system to improve the performance
+
+## 2009 - 2010: Software Engineer | Self-Employed
+
+Web development for multiple clients mainly with Wordpress
 
 ## 2007 - 2009: Programmer Analyst, CAIJ
 
-Mobile & Web Application Development in the law library industry. Some Highlights:
+Mobile & Web Application Development - LegalTech. Some Highlights:
 
 - Presenter at the COSUGI Conference https://www.cosugi.org/about
 - Development of one of the first mobile website on top of a proprietary CMS for library
@@ -101,6 +94,13 @@ Mobile & Web Application Development in the law library industry. Some Highlight
 
 - 2019: Data Science Foundations Specialist (IBM - Coursera)
 - 2017: CSM (Certified Scrum Master)
+
+# SIDE PROJECTS
+
+- Development of PAD Planner: a web application for parents to manage PA Days (Tech stack: TailwindCSS, Next.js, Firebase Auth, Express.js and PostgreSQL) - IN PROGRESS
+- Maintainance of the "[Software Engineering Metrics](https://trello.com/b/Gyy6SMxt/software-engineering-metrics)" Trello board
+- Development of my online portfolio site [jeannedarc.io](https://jeannedarc.io/) (!This is my playground so the tech stack changes frequently. Currently: Next.js, TailwindCSS, GitHub, Netlify - [compare Jamstack host on AWS](https://www.mudbath.com.au/insight/aws-vs-netlify/))
+- Development of a mobile app using Xamarin and publish it on Apple Store
 
 # VOLUNTEERING
 
