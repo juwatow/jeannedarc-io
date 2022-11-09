@@ -9,6 +9,13 @@ A lifelong learner, passionate about software product development and how a team
 
 # CAREER
 
+## Oct 2022 - Nov 2022: Career Break
+
+- Developed the first version of PAD Planner: a web application for parents to manage PA Days (Tech stack: TailwindCSS, Next.js, Firebase Auth, MongoDB Atlas, Netlify Functions/CLI) - IN PROGRESS
+- Attended ["Measuring Development Team Performance"](https://maven.com/high-performing-software-teams/measuring-development-team-performance) training by Laura Tacho
+- Created "[Software Engineering Metrics](https://trello.com/b/Gyy6SMxt/software-engineering-metrics)" Trello board
+- Updated the tech stack of my online portfolio site [jeannedarc.io](https://jeannedarc.io/) (!This is my playground so the tech stack changes frequently. Currently: Next.js, TailwindCSS, GitHub, Netlify)
+
 ## May 2021 - Oct 2022: Engineering Manager, Xello
 
 Xello is transforming the way Students in USA, Canada and UK become Future Ready by providing:
@@ -18,17 +25,23 @@ Xello is transforming the way Students in USA, Canada and UK become Future Ready
 
 ### Some highlights of my contribution to this mission:
 
-- Leading 2 product teams and 1 platform team
-- Mentoring, Coaching and Sponsoring 17 engineers of all experience levels
-- Advocating for continuously finding new ways for the engineering team to effectively accomplish the mission by introducing various process improvements & strategies for hiring, onboarding, delivering a high quality product, individual growth and retaining people who are aligned with the company's values & mission
+- Led 2 product teams and 1 platform team
+- Mentored, Coached and Sponsored 17 engineers of all experience levels
+- Projects/Initiatives:
+  - Led [Taco - Xello’s first Design System](https://taco.xello.world/)
+  - Led Engineering Open Space - an initiative to foster greater connectedness in a remote-first work setting
+  - Supported the modularization of the monolith architecture: Micro Front-End and Micro API per feature
+  - Supported various Migration Projects: upgrade to .net6, updgrade to angular 8
+  - Participated in the company initiative to become SOC 2 Compliance certified
+- Advocated for continuously finding new ways for the engineering team to effectively accomplish the mission by introducing various process improvements & strategies for hiring, onboarding, delivering a high quality product, individual growth and retaining people who are aligned with the company's values & mission
   - Created a structured hiring process and trained our engineering team on how to use it
-  - Introduced the [Radical Candor framework](https://www.radicalcandor.com) to encourage guidance and feedback
-  - Introduced [SPACE: A Framework to measure productivity](https://queue.acm.org/detail.cfm?id=3454124) and DORA Metrics to ensure product teams make data-driven decisions
-  - Introduced some practices to encourage a writing culture (ADRs, RFCs, Design Docs, Technical Documentation,...)
-  - Introduced some practices to improve our remote-first environment (advocated for Async communication, meeting efficiency, ...)
+  - Advocated for hiring entry-level engineers and set in place a strong mentorship strategy to quickly level them up
+  - Advocated for a [strong product culture](https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/) in a way that it is defined by people like Marty Cagan (PM: viable & valuable, Design: Usable, Engineering: Feasible)
+  - Advocated for a strong feedback culture: Introduced the [Radical Candor framework](https://www.radicalcandor.com)
+  - Advocated for a data-driven decision-making culture: Introduced [SPACE: A Framework to measure productivity](https://queue.acm.org/detail.cfm?id=3454124) and DORA Metrics
+  - Advocated for a writing culture: Introduced some practices like ADRs, RFCs, Design Docs, Technical Documentation, ...
+  - Advocated for a sustainable remote-first environment: Introduced some practices to make our meetings more efficient, advocated for Async communication, ...
 - Technical contribution: Code Reviews, Write/Review Design Doc, Fix Bugs, Write Documentation, Automate tasks
-- Led an initiative to build Taco, Xello’s first Design System, to increase the productivity of our product teams: hired 2 interns to team up with 2 UI engineers and our lead designer. Tools: [Lit](https://lit.dev/) (web components - html/css/javascript), Zeroheight, Figma, Miro, Airtable
-- Led an initiative to foster greater connectedness in a remote-first work setting: created a process to effectively run a one-hour weekly open-space session for our triad (product, user experience and engineering) to reflect on software development practices, share learned lessons from various projects and pitch solutions for some of our engineering challenges, allow engineers to level-up their communication skills. Tools/Skills: Advanced Meeting Facilitation Skills, Zoom, Trello, Google Workspace
 
 ## Jan 2021 - May 2021: Scrum Master - Cloud Platform, CaseWare International
 
@@ -59,8 +72,7 @@ Working with the Smart Engagement group (5 teams) to continuously uncover better
 
 ## Apr 2017 - Dec 2019: Senior Software Engineer & Scrum Master, Xello
 
-Part of a cross-functional team that ensures that Xello leads the way in supporting college-bound students (and the educators dedicated to helping them) by producing exceptional college planning and tracking tools that provide the most reliable, effortless, reassuring, and engaging experience on the market.
-In order to instill confidence in students and educators navigating the college application process so every student feels empowered to achieve their successful future.
+Part of a cross-functional team that ensured that Xello leads the way in supporting college-bound students (and the educators dedicated to helping them) by producing exceptional college planning and tracking tools that provide the most reliable, effortless, reassuring, and engaging experience on the market. In order to instill confidence in students and educators navigating the college application process so every student feels empowered to achieve their successful future.
 
 - Ensuring the team develop new features while maintaining a high quality of the existing code
 - Leading projects
@@ -72,7 +84,7 @@ Part of the first dev team of 4 engineers. The team scaled up to 2 big team of 8
 
 - Wear multiple hats: Developer, Tech lead, Manager, Scrum Master
 - Participated in multiple migration projects: ASP.NET to ASP.NET Core REST API | Angular | Sql Server
-- Led/participated in multiple projects to improve the architecture: added Solr to support the Full Text Search and Redis as our caching system to improve the performance
+- Led/participated in multiple projects to scale the system: load balancer, Redis, Solr, moved to Azure, CDN, Blob storage
 
 ## 2009 - 2010: Software Engineer | Self-Employed
 
@@ -84,6 +96,7 @@ Mobile & Web Application Development - LegalTech. Some Highlights:
 
 - Presenter at the COSUGI Conference https://www.cosugi.org/about
 - Development of one of the first mobile website on top of a proprietary CMS for library
+- Development of a mobile app using Xamarin and publish it on Apple Store
 
 # EDUCATION
 
@@ -94,13 +107,6 @@ Mobile & Web Application Development - LegalTech. Some Highlights:
 
 - 2019: Data Science Foundations Specialist (IBM - Coursera)
 - 2017: CSM (Certified Scrum Master)
-
-# SIDE PROJECTS
-
-- Development of PAD Planner: a web application for parents to manage PA Days (Tech stack: TailwindCSS, Next.js, Firebase Auth, Express.js and PostgreSQL) - IN PROGRESS
-- Maintainance of the "[Software Engineering Metrics](https://trello.com/b/Gyy6SMxt/software-engineering-metrics)" Trello board
-- Development of my online portfolio site [jeannedarc.io](https://jeannedarc.io/) (!This is my playground so the tech stack changes frequently. Currently: Next.js, TailwindCSS, GitHub, Netlify - [compare Jamstack host on AWS](https://www.mudbath.com.au/insight/aws-vs-netlify/))
-- Development of a mobile app using Xamarin and publish it on Apple Store
 
 # VOLUNTEERING
 
