@@ -11,9 +11,7 @@ A lifelong learner, passionate about software product development and how a team
 
 ## Oct 2022 - Nov 2022: Career Break
 
-- Developed the first version of PAD Planner: a web application for parents to manage PA Days (Tech stack: TailwindCSS, Next.js, Firebase Auth, MongoDB Atlas, Netlify Functions/CLI) - IN PROGRESS
-- Attended ["Measuring Development Team Performance"](https://maven.com/high-performing-software-teams/measuring-development-team-performance) training by Laura Tacho
-- Created "[Software Engineering Metrics](https://trello.com/b/Gyy6SMxt/software-engineering-metrics)" Trello board
+- Attended ["Measuring Development Team Performance"](https://maven.com/high-performing-software-teams/measuring-development-team-performance) training and created "[Software Engineering Productivity](https://trello.com/b/Gyy6SMxt/software-engineering-productivity)" Trello board to capture my interest on this topic
 - Updated the tech stack of my online portfolio site [jeannedarc.io](https://jeannedarc.io/) (!This is my playground so the tech stack changes frequently. Currently: Next.js, TailwindCSS, GitHub, Netlify)
 
 ## May 2021 - Oct 2022: Engineering Manager, Xello
@@ -26,11 +24,12 @@ Xello is transforming the way Students in USA, Canada and UK become Future Ready
 ### Some highlights of my contribution to this mission:
 
 - Led 2 product teams and 1 platform team
+- Helped scaling the engineering department which doubled in size
 - Mentored, Coached and Sponsored 17 engineers of all experience levels
 - Projects/Initiatives:
-  - Led [Taco - Xello’s first Design System](https://taco.xello.world/)
+  - Led the initiative to build [Taco - Xello’s first Design System](https://taco.xello.world/)
   - Led Engineering Open Space - an initiative to foster greater connectedness in a remote-first work setting
-  - Supported the modularization of the monolith architecture: Micro Front-End and Micro API per feature
+  - Supported the modularization of the monolith architecture: Micro Front-End and Micro-API per feature
   - Supported various Migration Projects: upgrade to .net6, updgrade to angular 8
   - Participated in the company initiative to become SOC 2 Compliance certified
 - Advocated for continuously finding new ways for the engineering team to effectively accomplish the mission by introducing various process improvements & strategies for hiring, onboarding, delivering a high quality product, individual growth and retaining people who are aligned with the company's values & mission

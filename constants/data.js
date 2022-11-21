@@ -8,8 +8,8 @@ const userData = {
     address: "Toronto, Canada",
     projects: [
       {
-        title: "Software Engineering Metrics - Trello Board",
-        link: "https://trello.com/b/Gyy6SMxt/software-engineering-metrics",
+        title: "Software Engineering Productivity - Trello Board",
+        link: "https://trello.com/b/Gyy6SMxt/software-engineering-productivity",
         imgUrl: "/software-engineering-metrics-trello-board.png",
       },
       {
