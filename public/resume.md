@@ -9,9 +9,10 @@ A lifelong learner, passionate about software product development and how a team
 
 # CAREER
 
-## Oct 2022 - Nov 2022: Career Break
+## Nov 2022: Career Break
 
 - Building an app to help parents/guardians in Toronto manage efficiently and effectively PA Days (Browser different activities, Make plans that optimize for exploration of diverse activities during a school year, ...)
+- Attended [AWS re:Invent 2022](https://reinvent.awsevents.com/)
 - Attended ["Measuring Development Team Performance"](https://maven.com/high-performing-software-teams/measuring-development-team-performance) training and created "[Software Engineering Productivity](https://trello.com/b/Gyy6SMxt/software-engineering-productivity)" Trello board to capture my interest on this topic
 - Updated the tech stack of my online portfolio site [jeannedarc.io](https://jeannedarc.io/) (!This is my playground so the tech stack changes frequently. Currently: Next.js, TailwindCSS, GitHub, Netlify)
 
