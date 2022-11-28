@@ -11,6 +11,7 @@ A lifelong learner, passionate about software product development and how a team
 
 ## Oct 2022 - Nov 2022: Career Break
 
+- Building an app to help parents/guardians in Toronto manage efficiently and effectively PA Days (Browser different activities, Make plans that optimize for exploration of diverse activities during a school year, ...)
 - Attended ["Measuring Development Team Performance"](https://maven.com/high-performing-software-teams/measuring-development-team-performance) training and created "[Software Engineering Productivity](https://trello.com/b/Gyy6SMxt/software-engineering-productivity)" Trello board to capture my interest on this topic
 - Updated the tech stack of my online portfolio site [jeannedarc.io](https://jeannedarc.io/) (!This is my playground so the tech stack changes frequently. Currently: Next.js, TailwindCSS, GitHub, Netlify)
 
@@ -32,14 +33,14 @@ Xello is transforming the way Students in USA, Canada and UK become Future Ready
   - Supported the modularization of the monolith architecture: Micro Front-End and Micro-API per feature
   - Supported various Migration Projects: upgrade to .net6, updgrade to angular 8
   - Participated in the company initiative to become SOC 2 Compliance certified
-- Advocated for continuously finding new ways for the engineering team to effectively accomplish the mission by introducing various process improvements & strategies for hiring, onboarding, delivering a high quality product, individual growth and retaining people who are aligned with the company's values & mission
+- Advocated for great developer experience and continuously finding new ways for the engineering team to effectively accomplish the mission by introducing various process improvements & strategies for hiring, onboarding, delivering a high quality product, individual growth and retaining people who are aligned with the company's values & mission
   - Created a structured hiring process and trained our engineering team on how to use it
   - Advocated for hiring entry-level engineers and set in place a strong mentorship strategy to quickly level them up
-  - Advocated for a [strong product culture](https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/) in a way that it is defined by people like Marty Cagan (PM: viable & valuable, Design: Usable, Engineering: Feasible)
+  - Advocated for a [strong product culture](https://www.lennyspodcast.com/the-nature-of-product-marty-cagan-silicon-valley-product-group/) in a way that it is defined by people like Marty Cagan (PM: viable & valuable, Design: Usable, Engineering: Feasible) and better delivery (User Story Mapping, Planning)
   - Advocated for a strong feedback culture: Introduced the [Radical Candor framework](https://www.radicalcandor.com)
-  - Advocated for a data-driven decision-making culture: Introduced [SPACE: A Framework to measure productivity](https://queue.acm.org/detail.cfm?id=3454124) and DORA Metrics
+  - Advocated for a data-driven decision-making culture: Promoted alignment through [Team Charters](https://miro.com/guides/team-charter/), Introduced [SPACE: A Framework to measure productivity](https://queue.acm.org/detail.cfm?id=3454124) and DORA Metrics
   - Advocated for a writing culture: Introduced some practices like ADRs, RFCs, Design Docs, Technical Documentation, ...
-  - Advocated for a sustainable remote-first environment: Introduced some practices to make our meetings more efficient, advocated for Async communication, ...
+  - Advocated for a sustainable remote-first environment: Introduced some practices to make our meetings more effective and efficient, advocated for Async communication, ...
 - Technical contribution: Code Reviews, Write/Review Design Doc, Fix Bugs, Write Documentation, Automate tasks
 
 ## Jan 2021 - May 2021: Scrum Master - Cloud Platform, CaseWare International
