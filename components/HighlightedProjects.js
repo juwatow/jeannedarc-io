@@ -35,17 +35,17 @@ export default function HighlightedProjects() {
         <div className="grid md:grid-cols-3 gap-8 lg:-mt-8 pb-40">
           {/* Single card */} 
           <a
-            href="https://trello.com/b/Gyy6SMxt/software-engineering-metrics"
+            href="https://trello.com/b/Gyy6SMxt/developer-experience-productivity"
             className="w-full block col-span-3 shadow-2xl"
           >
             <div className="relative overflow-hidden">
               <img
-                src="/software-engineering-metrics-trello-board.png"
-                alt="Software Engineering Productivity - Trello Board"
+                src="/developer-experience-and-productivity-trello-board.png"
+                alt="Developer Experience & Productivity - Trello Board"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
               <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
-              Software Engineering Productivity - Trello Board
+              Developer Experience & Productivity - Trello Board
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                 01
@@ -80,7 +80,7 @@ export default function HighlightedProjects() {
             <div className="relative overflow-hidden shadow-2xl">
               {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
               <img
-                src="/neebyo.png"
+                src="/neebyo.jpeg"
                 alt="Neeebyo"
                 className="transform hover:scale-125 transition duration-2000 ease-out object-cover shadow-2xl"
               />

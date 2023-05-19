@@ -8,9 +8,9 @@ const userData = {
     address: "Toronto, Canada",
     projects: [
       {
-        title: "Software Engineering Productivity - Trello Board",
-        link: "https://trello.com/b/Gyy6SMxt/software-engineering-productivity",
-        imgUrl: "/software-engineering-metrics-trello-board.png",
+        title: "Developer Experience & Productivity - Trello Board",
+        link: "https://trello.com/b/Gyy6SMxt/developer-experience-productivity",
+        imgUrl: "/developer-experience-and-productivity-trello-board.png",
       },
       {
         title: "Taco, Xello's Design System",
@@ -20,7 +20,7 @@ const userData = {
       {
         title: "Neebyo",
         link: "https://neebyo.org",
-        imgUrl: "/neebyo.png",
+        imgUrl: "/neebyo.jpeg",
       }
     ],
     about: {
