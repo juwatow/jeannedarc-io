@@ -5,20 +5,24 @@ juwatow@gmail.com <br />
 
 # SUMMARY
 
-A lifelong learner, passionate about software product development and how a team/organization building softwares can achieve "Great Results & Great Human Satisfaction". I strive to empower people around me to reach their highest potential by guiding product/platform teams to become values-driven, self-organizing and high-performant as well as partnering with the EPD triad and other stakeholders to create an environment where we continuously improve in order to achieve the desired business outcomes.
+Engineering Leader with a passion for Developer Experience
+A results-driven engineering manager with a proven track record of advancing from developer to leadership roles. Currently focused on enhancing developer experience through platform engineering, including filling the role of a product manager for platform engineering. Led key projects like migrating from ECS to EKS, developing an Internal Developer Platform (IDP) with golden paths for CI/CD, observability, and monitoring, and spearheading the Women in Engineering group.
 
 # CAREER
 
-## Nov 2022: Career Break
+## Dec 2022 - Now: Engineering Manager, Vidyard
 
-- Building an app to help parents/guardians in Toronto manage efficiently and effectively PA Days (Browser different activities, Make plans that optimize for exploration of diverse activities during a school year, ...)
-- Attended [AWS re:Invent 2022](https://reinvent.awsevents.com/)
-- Attended ["Measuring Development Team Performance"](https://maven.com/high-performing-software-teams/measuring-development-team-performance) training and created "[Software Engineering Productivity](https://trello.com/b/Gyy6SMxt/software-engineering-productivity)" Trello board to capture my interest on this topic
-- Updated the tech stack of my online portfolio site [jeannedarc.io](https://jeannedarc.io/) (!This is my playground so the tech stack changes frequently. Currently: Next.js, TailwindCSS, GitHub, Netlify)
+*Vidyard* is a leading video platform that helps businesses create, host, and share videos for marketing, sales, and customer success. The company recently shifted its roadmap to incorporate AI, enhancing its tools and offerings.
+
+- Hired to manage Vidyard's first platform engineering team, with responsibility for hiring and growing the team. Adapted recruitment and interview processes to attract engineers with a product mindset, infrastructure expertise, CI/CD pipelines, and developer tooling.
+- Created a strategic roadmap to treat the internal platform as a product, ensuring alignment with business goals.
+- Introduced the first survey tool to formally collect developer feedback, enhancing accountability and improving the developer experience.
+- Led the initiative to migrate the infrastructure from ECS to EKS.
+- Co-led Vidyard’s Women in Engineering task force, fostering an inclusive community, dismantling systemic barriers, and empowering women and allies within the engineering organization.
 
 ## May 2021 - Oct 2022: Engineering Manager, Xello
 
-Xello is transforming the way Students in USA, Canada and UK become Future Ready by providing:
+*Xello* is transforming the way Students in USA, Canada and UK become Future Ready by providing:
 
 1. Tools students use for self-discovery, exploration of post-secondary schools/colleges and career options and, for creation of impactful plans.
 2. Tools educators/counselors and guardiants/parents use to support students in their K-12 journey
