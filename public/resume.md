@@ -16,7 +16,7 @@ A results-driven engineering manager with a proven track record of advancing fro
 
 - Hired to manage Vidyard's first platform engineering team, with responsibility for hiring and growing the team. Adapted recruitment and interview processes to attract engineers with a product mindset, infrastructure expertise, CI/CD pipelines, and developer tooling.
 - Created a strategic roadmap to treat the internal platform as a product, ensuring alignment with business goals.
-- Introduced the first survey tool to formally collect developer feedback, enhancing accountability and improving the developer experience.
+- Introduced the first survey tool to formally collect developer feedback, helping the R&D departement making data-driven decisions, enhancing accountability and improving the developer experience.
 - Led the initiative to migrate the infrastructure from ECS to EKS.
 - Co-led Vidyard’s Women in Engineering task force, fostering an inclusive community, dismantling systemic barriers, and empowering women and allies within the engineering organization.
 
