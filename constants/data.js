@@ -1,7 +1,7 @@
 const userData = {
     githubUsername: "juwatow",
     name: "Jeanne d'Arc Uwatowenimana",
-    designation: "Engineering Leader",
+    designation: "A Passionate Engineering Leader with a Business Focus",
     avatarUrl: "/avatar.png",
     email: "juwatow@gmail.com",
     phone: "+1 (647) 348-3724",
@@ -25,7 +25,9 @@ const userData = {
     ],
     about: {
       title:
-        "I've grown from an individual contributor with a strong technical foundation to a leader focused on driving business impact. My experience across various roles in software development, from front-end to back-end, mobile, platform engineering, and Scrum Master, has equipped me with a deep understanding of the software development lifecycle. This has enabled me to empathize with diverse teams and collaborate effectively. As a leader, I've learned to guide teams toward delivering meaningful results while fostering their growth and development. Over the past three years, I've developed a passion for Developer Experience (DX). I've measured DX improvements through metrics like developer satisfaction surveys, time-to-market for new features, and the frequency of production incidents. To iterate on DX, I've implemented frameworks like OKRs (Objectives and Key Results) to align team goals with broader business objectives and Agile methodologies to foster collaboration and continuous improvement. By prioritizing DX, I've been able to increase team productivity, reduce time-to-market, and improve overall software quality.",
+        "I'm an engineering leader with a proven track record of success, having transitioned from a strong technical foundation as an individual contributor to a leader focused on driving impactful business results. <br />" +
+        "My experience as an engineering manager with a PM mindset has equipped me with a deep understanding of the entire software development lifecycle. This unique perspective allows me to empathize with diverse teams across the development spectrum, fostering effective collaboration. I excel at guiding teams to deliver meaningful solutions while nurturing their growth and development. <br />" + 
+        "Over the past few years, I've developed a passion for the developer experience (DX) and the transformative power of platform engineering. I'm particularly interested in helping scale-up companies  leverage these practices to elevate their engineering capabilities and align them with their business goals.",
       description: [
         ` My careeer journey can be summarized into 3 phases:`,
         ` Phase I | 2007-2017: as Camille Fournier describes it very well in her article “The Senior Shift”, this phase was about me growing from someone who needed a lot of oversight to an independent engineer. I focused on developing the best practices and pushing high-quality code. That led me to own bigger and more complex projects and show that I was capable, independent, and trustworthy (some examples: added Solr to support the Full Text Search and Redis as our caching system to improve the performance)`,
