@@ -46,10 +46,10 @@ export default function AboutMe() {
             </div>
             <div className="mt-8">
               <h1 className="text-xl font-semibold text-gray-700 dark:text-gray-200">
-                Job Opportunities
+                Opportunities
               </h1>
               <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
-                I'm currently looking for an opportunity to join a company where my hybrid skills are leveraged - ideally 75% people management and 25% individual contributor work, {" "}
+              I'm excited to connect with organizations looking to optimize their engineering processes, drive meaningful innovation, and elevate their developer experience, {" "}
                 <a
                   href={userData.resumeUrl}
                   target="__blank"
